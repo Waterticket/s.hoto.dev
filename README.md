@@ -1,5 +1,6 @@
 # s.hoto.dev
 URL SHORTER
+https://s.hoto.dev
 
 ### At First
 You should edit /config/user_conf.php
