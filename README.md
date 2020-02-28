@@ -24,7 +24,7 @@ return array(
 
 // error_display ? {display_error} : {hide_error}
 // ssl_only ? {HSTS} : {ALLOW_HTTP}
-// base_url : https://{ THIS is BASE_URL }/index.php
+// base_url : https://{ THIS IS BASE_URL }/index.php
 ~~~
 
 ### Second
